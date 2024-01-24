@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>016.jpg</filename>
+	<path>C:\Users\stanl\Downloads\UAS COMVIS\Images\016.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>468</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Saxophone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>160</ymin>
+			<xmax>203</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Piano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>18</ymin>
+			<xmax>382</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

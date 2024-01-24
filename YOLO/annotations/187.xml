@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>187.jpg</filename>
+	<path>C:\Users\stanl\Downloads\UAS COMVIS\Images\187.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>627</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Piano</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>200</ymin>
+			<xmax>1027</xmax>
+			<ymax>545</ymax>
+		</bndbox>
+	</object>
+</annotation>

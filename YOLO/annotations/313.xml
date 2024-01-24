@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>313.jpg</filename>
+	<path>C:\Users\stanl\Downloads\UAS COMVIS\Images\313.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Violin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>125</xmin>
+			<ymin>22</ymin>
+			<xmax>278</xmax>
+			<ymax>349</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Piano</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>121</ymin>
+			<xmax>480</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>

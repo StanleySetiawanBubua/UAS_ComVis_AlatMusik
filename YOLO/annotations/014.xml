@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>014.jpeg</filename>
+	<path>C:\Users\stanl\Downloads\UAS COMVIS\Images\014.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1001</width>
+		<height>1001</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Violin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>575</xmin>
+			<ymin>396</ymin>
+			<xmax>798</xmax>
+			<ymax>957</ymax>
+		</bndbox>
+	</object>
+</annotation>

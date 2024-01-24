@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>013.jpg</filename>
+	<path>C:\Users\stanl\Downloads\UAS COMVIS\Images\013.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Violin</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>97</ymin>
+			<xmax>926</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Saxophone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>15</ymin>
+			<xmax>604</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+</annotation>

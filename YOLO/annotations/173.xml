@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>173.jpeg</filename>
+	<path>C:\Users\stanl\Downloads\UAS COMVIS\Images\173.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Violin</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>90</ymin>
+			<xmax>123</xmax>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Piano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>55</ymin>
+			<xmax>195</xmax>
+			<ymax>193</ymax>
+		</bndbox>
+	</object>
+</annotation>

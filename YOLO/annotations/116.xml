@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>116.jpeg</filename>
+	<path>C:\Users\stanl\Downloads\UAS COMVIS\Images\116.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>188</width>
+		<height>268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Piano</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>10</ymin>
+			<xmax>181</xmax>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

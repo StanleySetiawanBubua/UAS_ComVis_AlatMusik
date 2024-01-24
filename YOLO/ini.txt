@@ -1,0 +1,60 @@
+python train.py --weights yolov7-e6e.pt --data data/masks.yaml --workers 1 --batch-size 4 --img 416 --cfg cfg/training/yolov7-masks.yaml --name yolov7 --epochs 50
+
+
+
+
+train: ./train
+val: ./val
+test: ./test
+
+#Classes
+nc: 3 #number of classes
+names: ['with_mask', 'without_mask', 'mask_weared_incorrect'] 
+
+
+
+
+
+
+
+pip install -U -r requirements.txt
+
+
+
+yolov7-e6e.pt:
+https://github.com/WongKinYiu/yolov7
+
+
+
+
+git clone https://github.com/ultralytics/yolov5  # clone
+cd yolov5
+pip install -r requirements.txt  # install
+
+
+
+
+
+python detect.py --weights runs/train/yolov7/weights/best.pt --conf 0.4 --img-size 640 --source ./test/images/ShortMaskVideo.mp4
+
+
+
+
+
+
+
+
+
+conda deactivate
+PATH:
+C:\Users\stanl\anaconda3\Scripts
+PATH:
+C:\Users\stanl\anaconda3
+
+
+
+
+
+
+
+
